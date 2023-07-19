@@ -1,0 +1,223 @@
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\TRABAJO_Z\SAMBRANO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\user\Desktop\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmClientes.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProductos.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProveedores.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistro.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmReporte.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuarios.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\salaz\OneDrive\Escritorio\TORRES-ULTIMO\ISISTEMAS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

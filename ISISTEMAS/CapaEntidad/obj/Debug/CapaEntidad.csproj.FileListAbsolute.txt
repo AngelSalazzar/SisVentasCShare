@@ -1,0 +1,24 @@
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\user\Desktop\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\MSI Intel\source\repos\ISISTEMAS-n\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\user\source\repos\SAMBRANO\ISISTEMAS\CapaEntidad\obj\Debug\CapaEntidad.pdb
